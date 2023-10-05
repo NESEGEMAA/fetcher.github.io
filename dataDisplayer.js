@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
             '<span id="rep_footer">' +
             '<span id="_language">' + data[i]['language'] + '</span>' +
             '<span id="_number">' +
-            '<img src="/secondProject/media/sparkle.png" alt="star" style="width:auto; height:12px;" />' +
+            '<img src="/media/sparkle.png" alt="star" style="width:auto; height:12px;" />' +
             data[i]['stargazers_count'] +
             '</span>' +
             '</span>' +
